@@ -8,20 +8,19 @@ This project is a part of the Data Analyst Internship application at Alt Mobilit
 -> payments.csv — Contains payment transactions (Payment ID, Order ID, Payment Status, Payment Method, Payment Amount, Payment Date).
 
 # 🛠️ Tools and Technologies
-SQL (PostgreSQL / MySQL) — for data analysis
-
+SQL (PostgreSQL) — for data analysis
 Power BI — for visualization
-
 GitHub — for version control
 
 # 🎯 Problem Statements and Approach
+
 # 1. Order and Sales Analysis
 Analyzed order status distribution (Completed, Cancelled, Pending).
 Calculated monthly revenue trends.
 Computed average order value.
 
 Key SQL Files:
-SQL/order_sales_analysis.sql
+order_sales_analysis.sql
 
 # 2. Customer Analysis
 Identified repeat customers.
@@ -29,7 +28,7 @@ Segmented customers into New and Returning per month.
 Classified customers based on Lifetime Value (High, Medium, Low).
 
 Key SQL Files:
-SQL/customer_analysis.sql
+customer_analysis.sql
 
 # 3. Payment Status Analysis
 Investigated payment success and failure rates.
@@ -37,14 +36,14 @@ Analyzed payment failure trends over time.
 Examined payment issues by different payment methods.
 
 Key SQL Files:
-SQL/payment_status_analysis.sql
+payment_status_analysis.sql
 
 # 4. Order Details Report
 Combined orders and payments into a detailed report.
 Added calculated fields like Payment Completion Percentage and Payment Delay Days.
 
 Key SQL Files:
-SQL/order_details_report.sql
+order_details_report.sql
 
 # 📈 Visualization: Customer Retention Cohort Analysis
 Built a cohort analysis to track how many customers from each cohort month made repeat purchases over the following months.
