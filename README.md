@@ -1,5 +1,5 @@
-# Alt-Mobility-Data-Analyst-Assignment
-This project is a part of the Data Analyst Internship application at Alt Mobility. The goal was to extract insights from customer order and payment datasets using SQL and visualize customer retention.
+#Revenue & Retention Tracker with SQL & Power BI
+The goal was to extract insights from customer order and payment datasets using SQL and visualize customer retention through Power BI.
 
 
 # 📁 Datasets Used
@@ -53,10 +53,7 @@ Run the SQL scripts inside the SQL/ folder on the datasets.
 Visualizations are available inside the Visualizations/ folder.
 The complete summary report is available inside Summary_of_Findings.pdf.
 
-Pankhuri Garg
-(Data Analyst Intern Applicant at Alt Mobility)
 
-Thank you for reviewing my submission! I'm excited about the opportunity to contribute to Alt Mobility's mission of building the EV ecosystem in India.
 
 
 
